@@ -1,6 +1,9 @@
 # sheerNstyle
 A website to manage salon services and make appointment for client and their recite.
 
+ # How to Run
+ 1. Download The Repo then run app.py
+
 # Functionality
 Users will have sign-up pages. They have to submit their salon name, owner name, email, contact info, address, opening time, closing, about time, and password to make an account. While inserting data, it will be stored in the database. The owner can log in to their account and add and delete services. Moreover, the owner can create employees as per their role and remove them. Users can make an appointment and print it as a slip.
 
